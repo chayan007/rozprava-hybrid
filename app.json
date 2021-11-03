@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "rozprava-app-wrapper",
+    "slug": "rozprava-app-wrapper",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "rozprava-app-wrapper"
+}
